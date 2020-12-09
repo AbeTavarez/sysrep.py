@@ -9,6 +9,9 @@ Python System Disk Situation Report
 - Python
 - Pandas
 
+
+### Sample Code
+
 ```
 # Get directory size
 
@@ -28,8 +31,3 @@ def get_size(path):
             total += 0
     return total
 ```
-
-## Built With
-
-* [COVID19API](https://covid19api.com//) - API
-* [Folium](https://raw.githubusercontent.com/python-visualization/folium/master/examples/data) - Geo Data
