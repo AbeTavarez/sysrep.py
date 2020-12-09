@@ -9,6 +9,17 @@ Python System Disk Situation Report
 - Python
 - Pandas
 
+### Runing the program
+
+- Fork repo.
+
+- Open it inn your favorite editor.
+
+- From the project's directory, run the following code in your terminal:
+
+```
+python3 disk_report path/to/directory/to/analyze
+```
 
 ### Sample Code
 
