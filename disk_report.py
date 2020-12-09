@@ -23,6 +23,7 @@ def get_size(path):
     return total
 
 
+# MAIN ###################
 if __name__ == '__main__':
     path = '/home'
     print('total arguments passed: ', len(sys.argv))
@@ -47,7 +48,7 @@ if __name__ == '__main__':
             paths.append(entry.path)
             usage.append(total)
 
-        # create usage dictonary
+        # create usage dictionary
         usage_dict = {
             'directory': paths,
             'usage': usage

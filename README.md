@@ -1,6 +1,6 @@
 # sysrep.py 📁 💿 📊
 
-Python System Disk Situation Report 
+Python System Disk Situation Report
 
 ## Getting Started
 
@@ -20,6 +20,8 @@ Python System Disk Situation Report
 ```
 python3 disk_report path/to/directory/to/analyze
 ```
+
+4- If everything was successful a new disk_usage.csv file shold be created in the same directory of the project.
 
 ### Sample Code
 
