@@ -11,11 +11,11 @@ Python System Disk Situation Report
 
 ### Runing the program
 
-- Fork repo.
+1. Fork repo.
 
-- Open it inn your favorite editor.
+2. Open it inn your favorite editor.
 
-- From the project's directory, run the following code in your terminal:
+3. From the project's directory, run the following code in your terminal:
 
 ```
 python3 disk_report path/to/directory/to/analyze
